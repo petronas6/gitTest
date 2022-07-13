@@ -1,1 +1,2 @@
-to jet zmiana na masterze
+to jest zmiana na newfeature branchu
+
